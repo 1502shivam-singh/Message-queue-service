@@ -33,7 +33,7 @@ Message queue system
 ### Design overview
 The service.cpp is a multithreaded server node 
 																																				
----- t1 thread : dequeueing recevied messages and sending to receiver after some wait (randomised, generated to mimick actual wait)			
+---- t1 thread : dequeueing recevied messages and sending to receiver after some wait (randomised, generated to mimic actual wait)			
 																																				
 ---- t2 thread : receiving message from client and enqueuing in the message queue													            
 																																				
