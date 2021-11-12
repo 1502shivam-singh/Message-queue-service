@@ -1,5 +1,5 @@
 # Message-queue-service
-A bare-bones implementation of a message queue service through Winsock2 API.
+My implementation of a message queue service through Winsock2 API.
 
 # Contribute
 
